@@ -21,7 +21,7 @@ sections:
     section_id: best_sellers_section
     title: Best sellers
     icon: true
-    light_title: true
+    light_title: false
     featured_products:
       - products/plant1.md
       - products/plant3.md
